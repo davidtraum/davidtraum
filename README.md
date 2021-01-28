@@ -1,9 +1,9 @@
 ### Hi there 👋
 #### I'm currently working on these published projects:
-- stadtlandfluss.cool - Online Word-Game with more than 200k players per month.
+- [stadtlandfluss.cool](https://stadtlandfluss.cool) - Online Word-Game with more than 200k players per month.
 #### Those projects are currently in beta / not published:
-- appointa.net - Very high featured platform for creating online votings for meetings and other gatherings.
-- actiward.de - Smart time and task-tracking platform using QR-Codes
+- [appointa.net](https://appointa.net) - Very high featured platform for creating online votings for meetings and other gatherings.
+- [actiward.de](https://actiward.de) - Smart time and task-tracking platform using QR-Codes
 
 You can see a bigger selection of my projects on my website: traum.me
 

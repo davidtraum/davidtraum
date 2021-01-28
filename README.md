@@ -5,7 +5,8 @@
 - [appointa.net](https://appointa.net) - Very high featured platform for creating online votings for meetings and other gatherings.
 - [actiward.de](https://actiward.de) - Smart time and task-tracking platform using QR-Codes
 
-You can see a bigger selection of my projects on my website: traum.me
+⚡ You can see a bigger selection of my projects on my website: [traum.me](https://traum.me)
+📫 Contact: david@traum.me
 
 <!--
 **davidtraum/davidtraum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

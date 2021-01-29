@@ -7,8 +7,8 @@
 - [actiward.de](https://actiward.de) - Smart time and task-tracking platform using QR-Codes [40% DONE]
 
 ⚡ You can see a bigger selection of my projects on my website: [traum.me](https://traum.me)<br>
-📫 Contact: david@traum.me
-🔭 Support: [buymeacoffee.com/dtraum](buymeacoffee.com/dtraum)
+📫 Contact: david@traum.me<br>
+🔭 Support: [buymeacoffee.com/dtraum](https://buymeacoffee.com/dtraum)
 
 <!--
 **davidtraum/davidtraum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I'm currently working on these published projects:
-- [stadtlandfluss.cool](https://stadtlandfluss.cool) - Online multiplayer word-game with more than 200k players per month. [v2.0 in progress]
+- [stadtlandfluss.cool](https://stadtlandfluss.cool) - Online multiplayer word-game with more than 300k players per month.
 - [GreenQuiz](https://traum.me/greenquiz) - Interactive quiz app for tablets used for public info booths.
 #### Those projects are currently in progress:
 - [appointa.net](https://appointa.net) - Very high featured platform for creating online votings for meetings and other gatherings. [90% DONE]

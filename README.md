@@ -17,7 +17,7 @@
 |Appointa Frontend|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6r.svg)](https://betteruptime.com/?utm_source=status_badge)|
 |Appointa 0|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6i.svg)](https://betteruptime.com/?utm_source=status_badge)|
 |Appointa 1|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6j.svg)](https://betteruptime.com/?utm_source=status_badge)|
-|Loadbalancer|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6o.svg)](https://betteruptime.com/?utm_source=status_badge)|
+|Appointa Loadbalancer|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6o.svg)](https://betteruptime.com/?utm_source=status_badge)|
 |SLF Frontend|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/api6.svg)](https://betteruptime.com/?utm_source=status_badge)|
 |PackTrek Frontend|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6q.svg)](https://betteruptime.com/?utm_source=status_badge)|
 

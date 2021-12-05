@@ -16,6 +16,10 @@
   - Server 0: [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6i.svg)](https://betteruptime.com/?utm_source=status_badge)
   - Server 1: [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6j.svg)](https://betteruptime.com/?utm_source=status_badge)
   - Loadbalancer: [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6o.svg)](https://betteruptime.com/?utm_source=status_badge)
+- StadtLandFluss
+  - Frontend: [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/api6.svg)](https://betteruptime.com/?utm_source=status_badge)
+- PackTrek
+  - Frontend: [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6q.svg)](https://betteruptime.com/?utm_source=status_badge)
 
 <!--
 **davidtraum/davidtraum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -20,6 +20,7 @@
 |Appointa Loadbalancer|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6o.svg)](https://betteruptime.com/?utm_source=status_badge)|
 |SLF Frontend|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/api6.svg)](https://betteruptime.com/?utm_source=status_badge)|
 |PackTrek Frontend|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6q.svg)](https://betteruptime.com/?utm_source=status_badge)|
+|Cloud|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/2pnn.svg)](https://betteruptime.com/?utm_source=status_badge)|
 
 
 <!--

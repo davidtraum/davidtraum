@@ -9,8 +9,8 @@ I like to build software projects from front to back.
 #### Recent iot projects:
 - JoyTrike: Very technological electric vehicle with a frame made of scrap parts.
   - ["Kliemannsland" video](https://www.youtube.com/watch?v=ElzpBlibBlU)
-  
-
+- Klimakasse: A interactive way to calculate the personal CO2-Footprint.
+  - ["heise.de" Article](https://www.heise.de/select/make/2020/6/2021811415255503013)
 
 ⚡ You can see a bigger selection of my projects on my website: [traum.me](https://traum.me)<br>
 📫 Contact: david@traum.me<br>

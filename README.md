@@ -1,9 +1,15 @@
 ### Hi there 👋
-#### Here is a selection of the projects I built recently:
+I like to build software projects from front to back.
+#### Here is a selection of web-projects I built recently:
 - [stadtlandfluss.cool](https://stadtlandfluss.cool) - Online multiplayer word-game with more than 300k players per month.
 - [packtrek.io](https://packtrek.io) - Gear list organizer and weight calculator for backpacking with social sharing.
 - [appointa.net](https://appointa.net) - Very high featured platform for creating online votings for meetings and other gatherings.
 - [GreenQuiz](https://traum.me/greenquiz) - Interactive quiz app for tablets used for public info booths.
+
+#### Recent iot projects:
+- JoyTrike: Very technological electric vehicle with a frame made of scrap parts.
+  - ["Kliemannsland" video](https://www.youtube.com/watch?v=ElzpBlibBlU)
+  
 
 
 ⚡ You can see a bigger selection of my projects on my website: [traum.me](https://traum.me)<br>

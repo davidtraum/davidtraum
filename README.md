@@ -1,11 +1,10 @@
 ### Hi there 👋
-#### I'm currently working on these published projects:
+#### Here is a selection of the projects I built recently:
 - [stadtlandfluss.cool](https://stadtlandfluss.cool) - Online multiplayer word-game with more than 300k players per month.
 - [packtrek.io](https://packtrek.io) - Gear list organizer and weight calculator for backpacking with social sharing.
 - [appointa.net](https://appointa.net) - Very high featured platform for creating online votings for meetings and other gatherings.
 - [GreenQuiz](https://traum.me/greenquiz) - Interactive quiz app for tablets used for public info booths.
-#### Those projects are currently in progress:
-- [actiward.de](https://actiward.de) - Smart time and task-tracking platform using QR-Codes [40% DONE]
+
 
 ⚡ You can see a bigger selection of my projects on my website: [traum.me](https://traum.me)<br>
 📫 Contact: david@traum.me<br>

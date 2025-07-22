@@ -1,8 +1,8 @@
 ### Hi there 👋
 I like to build software projects from front to back.
 #### Here is a selection of web-projects I built recently:
-- [trekspots.net](https://get.trekspots.net) - An app to find, share and rate campsites for tent camping targeted to hikers and bikepackers
-- [stadtlandfluss.cool](https://stadtlandfluss.cool) - Online multiplayer word-game with more than 300k players per month.
+- [TrekSpots](https://get.trekspots.net) - An app to find, share and rate campsites for tent camping targeted to hikers and bikepackers. (Android, IOS, Web)
+- [stadtlandfluss.cool](https://stadtlandfluss.cool) - Online multiplayer word-game with more than 300k players per month. (Web)
 - [packtrek.io](https://packtrek.io) - Gear list organizer and weight calculator for backpacking with social sharing.
 - [appointa.net](https://appointa.net) - Very high featured platform for creating online votings for meetings and other gatherings.
 - [GreenQuiz](https://traum.me/greenquiz) - Interactive quiz app for tablets used for public info booths.

@@ -20,8 +20,8 @@ I like to build software projects from front to back.
 ### Server Status
 |Server|Status|
 |-|-|
-[TrekSpots Web Frontend][![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/21s9g.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
-[TrekSpots Backend][![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/21s9o.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+|TrekSpots Web Frontend|[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/21s9g.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
+|TrekSpots Backend|[![Better Stack Badge](https://uptime.betterstack.com/status-badges/v1/monitor/21s9o.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
 |Appointa Frontend|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6r.svg)](https://status.traum.me)|
 |Appointa 0|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6i.svg)](https://status.traum.me)|
 |Appointa 1|[![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/aq6j.svg)](https://status.traum.me)|
